@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/TILE/TILEFLOOR012A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/ttt_canyon_a4/c0_0_0"
+	}
+}
